@@ -37,3 +37,10 @@ footer{
     font-size: 30px;
     background-color: blue;
 }
+
+.button{
+    height: 20px;
+    width: 20px;
+    background-color: aqua;
+    margin-left: 500px;
+}
